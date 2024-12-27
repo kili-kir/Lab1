@@ -1,0 +1,12 @@
+main ()
+    integer one;
+    one = 1;
+    <c> <>
+    > <
+    begin end var :=
+    endy
+    end4
+    while ( a < b = 10 )
+    do
+    @ $ # { } procedure
+    do 6655 06 ? " !
